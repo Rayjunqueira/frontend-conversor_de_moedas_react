@@ -1,0 +1,23 @@
+
+#hero-section .dark-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    min-height: 650px;
+}
+
+.container {
+    align-items: center;
+    text-align: center;
+    padding-top: 200px;
+}
+
+.container h2 {
+    margin-bottom: 16px;
+    color: white;
+    letter-spacing: 0.1rem;
+    font-size: 37px;
+}
+
+.container p {
+    color: orange;
+    letter-spacing: 0.1rem;
+}

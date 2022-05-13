@@ -1,0 +1,29 @@
+.currencyBox {
+    background: #eb5f5f;
+    color: #FFF;
+    width: 200px;
+    margin: 0 auto 20px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+    border-radius: 15px;
+}
+
+input, select {
+    background: none;
+    border:0;
+    color: #FFF;
+    outline: none;
+}
+
+
+option {
+    color: black;
+}
+
+input{
+    padding-left: 10px;
+}
+select{
+    padding: 15px;
+}
+
